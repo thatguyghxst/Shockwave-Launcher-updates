@@ -1,1 +1,5 @@
-
+{
+  "version": "1.0.21",
+  "url": "https://example.com/ploosh-launcher/PlooshLauncher-1.0.21.zip",
+  "notes": "Fixed launch button styling and tab transitions."
+}
